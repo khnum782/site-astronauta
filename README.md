@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/astronaut.png">
+  <img alt="License" src="./assets/capa.png">
 </p>
 
 <br>
